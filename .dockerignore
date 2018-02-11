@@ -1,0 +1,8 @@
+target
+test
+doc
+.*
+README.md
+LICENSE
+CHANGELOG.md
+*.iml
